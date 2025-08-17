@@ -95,8 +95,17 @@ This could have huge impact, given that OSS model leaked one of the keys it was 
 2. Idea1: Any fictional prompt must be classified if it has an element of voilence/cheating/mistreatment/hacking/anything negative. If it has must be avoided.
 3. Idea2: For fictional prompt, first hide the CoT, evaluate CoT and if it voilates policies, just say it cannot be answered
 4. Idea3: No matter what, fictional prompt must be purely fictional and it must be like a tom and jerry cartoon, but nothing beyong it.
+   
+## **10. Overall impact**
+1. These fictional prompts, once it goes viral, everyone will be using them to get desired answer
+2. It will be used by million to billions of people
 
-## **10. Overall Summary**
+   
+## **11. Overall Summary**
+1. Fictional prompts will jail break all the policies and get desired answers
+2. I have demonstrated responses involving Voilence, Github secret key revelations, ways to blackmail others.
+3. I have demonstrated how to frame the fictional prompts
+4. I have proposed a solution going forward
 
-
+   
    
